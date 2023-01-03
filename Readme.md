@@ -9,3 +9,5 @@ Para rodar o projeto após instalção do nodemon:
 - npm run dev
 
 - npm install mongoose
+
+- npm install cors

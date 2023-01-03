@@ -1,6 +1,9 @@
+//mongodb+srv://<usuario>:Elica:XL76HqfaTsE96pyw@cluster0.rhime0l.mongodb.net/annotations?retryWrites=true&w=majority
+
+
 const mongoose = require('mongoose');
 
-const dbConfig = 'mongodb+srv://Elica:Mb3hUDA1QchsJoED@cluster0.rhime0l.mongodb.net/?retryWrites=true&w=majority'
+const dbConfig = 'mongodb+srv://Elica:XL76HqfaTsE96pyw@cluster0.rhime0l.mongodb.net/annotations?retryWrites=true&w=majority'
 
 mongoose.set("strictQuery", true);
 
